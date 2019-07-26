@@ -11,7 +11,7 @@ __Americana, São Paulo, Brasil__
 
 ## Redes Sociais
 
-http://github.com - automatic!
+[GitHub] (http://github.com)
 
 
 
