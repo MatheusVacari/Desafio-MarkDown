@@ -1,7 +1,7 @@
 
-#MATHEUS VACARI   
+**MATHEUS VACARI   
 
--[x]Estudando Tecnico de informática
+*Estudando Tecnico de informática
 *
 
 
