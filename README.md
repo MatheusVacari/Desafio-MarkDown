@@ -15,6 +15,4 @@ __*Americana, São Paulo, Brasil*__
 [![GITHUB](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYqN3vMO-hhKYn98fIXdyY16c_78ryPdDRB46q2RyksBcFudsMhQ)](https://github.com)
 ![TWITCH](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs4b2P9-tnprwPwiuUmfRD-w-dfAQXhcPhW9Ib7V4gQd3xsJB-Lw)
 ![League Of Legends](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHRSxE4q6sWzB9xsqPWjFaHv43m7JIBuaMBS_Y7Hvw8_aX-WCGkQ)
-![PhotoShop](https://cdn.instructables.com/F01/9ECW/IFSJH15M/F019ECWIFSJH15M.LARGE.jpg)
-
 
