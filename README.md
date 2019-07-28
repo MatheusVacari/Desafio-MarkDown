@@ -12,3 +12,5 @@ __*Americana, São Paulo, Brasil*__
 - [LINKEDIN](https://www.linkedin.com/feed/)    
 - [FACEBOOK](https://www.facebook.com/matheus.vacari.39)     
 - [TWITCH](https://www.twitch.tv/mathvacari)  
+[![GITHUB](https://imgur.com/JlBZYtB)](https://github.com]
+
