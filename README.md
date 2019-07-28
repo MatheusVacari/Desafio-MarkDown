@@ -8,7 +8,7 @@
 )
 __*Americana, São Paulo, Brasil*__
 ## Redes Sociais  
-[GITHUB](https://github.com/MatheusVacari)
-[LINKEDIN](https://www.linkedin.com/feed/)
-[FACEBOOK](https://www.facebook.com/matheus.vacari.39)
-[TWITCH](https://www.twitch.tv/mathvacari)
+[GITHUB](https://github.com/MatheusVacari)  
+[LINKEDIN](https://www.linkedin.com/feed/)  
+[FACEBOOK](https://www.facebook.com/matheus.vacari.39)   
+[TWITCH](https://www.twitch.tv/mathvacari)  
